@@ -6,7 +6,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusDornelles&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcorreiaa&layout=compact&theme=dracula)](https://github.com/arcorreiaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusDornelle&layout=compact&theme=dracula)](https://github.com/arcorreiaa)
 
 
 
