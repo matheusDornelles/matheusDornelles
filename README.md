@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusdornelless/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dornelles-02942791/)
 
-![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=arcorreiaa&show_icons=true&theme=dracula)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusDornelles&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcorreiaa&layout=compact&theme=dracula)](https://github.com/arcorreiaa)
 
